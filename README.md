@@ -1,1 +1,3 @@
 # Oh-great-Homework...
+
+In this project I made the website more accessible by adding a website title to let the viewer know what site they are on instead of "website". Also added a nav and footer element to the html along with alt to each image in the html
